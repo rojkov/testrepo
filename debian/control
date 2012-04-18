@@ -1,0 +1,11 @@
+Source: testrepo
+Section: devel
+Priority: extra
+Maintainer: Dmitry Rozhkov <dmitry.rojkov@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~)
+
+Package: testrepo
+Section: devel
+Architecture: all
+Description: Package to test post-hooks
+ Package to test post-hooks
